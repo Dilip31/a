@@ -1,0 +1,251 @@
+.indication-sign-symptoms-child {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  background-color: var(--color-steelblue-500);
+  width: 670px;
+  height: 80px;
+}
+.panic-atatck {
+  position: absolute;
+  top: 28px;
+  left: 130px;
+  font-size: var(--font-size-41xl);
+  font-weight: 600;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 338px;
+  height: 79px;
+}
+.group-child75,
+.signs1 {
+  position: absolute;
+  top: 0;
+  height: 60px;
+}
+.group-child75 {
+  left: 0;
+  border-radius: 0 var(--br-11xl) var(--br-11xl) 0;
+  background-color: var(--color-steelblue-100);
+  width: 360px;
+}
+.signs1 {
+  left: 100px;
+  font-weight: 600;
+  display: inline-block;
+  width: 160px;
+}
+.rectangle-parent20,
+.rectangle-parent21 {
+  position: absolute;
+  top: 148px;
+  left: 0;
+  width: 360px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+}
+.rectangle-parent21 {
+  top: 507px;
+}
+.solutions2 {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  font-weight: 600;
+  display: inline-block;
+  width: 191px;
+  height: 60px;
+}
+.rectangle-parent22 {
+  position: absolute;
+  top: 889px;
+  left: 0;
+  width: 360px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+}
+.group-child78 {
+  position: absolute;
+  top: 14px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-steelblue-500);
+  width: 11.48px;
+  height: 10px;
+}
+.assess-your-sleep10 {
+  position: absolute;
+  top: 0;
+  left: 29.85px;
+  display: inline-block;
+  width: 552.15px;
+  height: 37px;
+}
+.ellipse-parent39 {
+  position: absolute;
+  top: 219px;
+  left: 260px;
+  width: 582px;
+  height: 37px;
+}
+.ellipse-parent40,
+.ellipse-parent41,
+.ellipse-parent42 {
+  position: absolute;
+  top: 960px;
+  left: 260px;
+  width: 582px;
+  height: 37px;
+}
+.ellipse-parent41,
+.ellipse-parent42 {
+  top: 363px;
+}
+.ellipse-parent42 {
+  top: 674px;
+  left: 270px;
+}
+.ellipse-parent43,
+.ellipse-parent44,
+.group-child84 {
+  position: absolute;
+  top: 1104px;
+  left: 260px;
+  width: 582px;
+  height: 37px;
+}
+.ellipse-parent44,
+.group-child84 {
+  top: 1248px;
+}
+.group-child84 {
+  top: 14px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-steelblue-500);
+  width: 11.89px;
+  height: 10px;
+}
+.find-out-which11 {
+  position: absolute;
+  top: 0;
+  left: 30.92px;
+  display: inline-block;
+  width: 572.08px;
+  height: 37px;
+}
+.ellipse-parent45,
+.ellipse-parent46 {
+  position: absolute;
+  top: 267px;
+  left: 260px;
+  width: 603px;
+  height: 37px;
+}
+.ellipse-parent46 {
+  top: 578px;
+  left: 270px;
+}
+.ellipse-parent47,
+.ellipse-parent48,
+.ellipse-parent49 {
+  position: absolute;
+  top: 1008px;
+  left: 260px;
+  width: 603px;
+  height: 37px;
+}
+.ellipse-parent48,
+.ellipse-parent49 {
+  top: 411px;
+}
+.ellipse-parent49 {
+  top: 722px;
+  left: 270px;
+}
+.ellipse-parent50,
+.ellipse-parent51,
+.group-child91 {
+  position: absolute;
+  top: 1152px;
+  left: 260px;
+  width: 603px;
+  height: 37px;
+}
+.ellipse-parent51,
+.group-child91 {
+  top: 1296px;
+}
+.group-child91 {
+  top: 14px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-steelblue-500);
+  width: 10px;
+  height: 10px;
+}
+.get-resources-to11 {
+  position: absolute;
+  top: 0;
+  left: 26px;
+  display: inline-block;
+  width: 437px;
+  height: 37px;
+}
+.ellipse-parent52 {
+  position: absolute;
+  top: 315px;
+  left: 260px;
+  width: 463px;
+  height: 37px;
+}
+.ellipse-parent53,
+.ellipse-parent54,
+.ellipse-parent55 {
+  position: absolute;
+  top: 626px;
+  left: 270px;
+  width: 463px;
+  height: 37px;
+}
+.ellipse-parent54,
+.ellipse-parent55 {
+  top: 1056px;
+  left: 260px;
+}
+.ellipse-parent55 {
+  top: 459px;
+}
+.ellipse-parent56,
+.ellipse-parent57,
+.ellipse-parent58 {
+  position: absolute;
+  top: 770px;
+  left: 270px;
+  width: 463px;
+  height: 37px;
+}
+.ellipse-parent57,
+.ellipse-parent58 {
+  top: 1200px;
+  left: 260px;
+}
+.ellipse-parent58 {
+  top: 1344px;
+}
+.indication-sign-symptoms {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1727px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-jost);
+}
